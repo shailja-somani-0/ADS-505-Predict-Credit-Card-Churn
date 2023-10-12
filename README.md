@@ -43,3 +43,4 @@ Thank you for using this credit card customer churn prediction model!
 
 ## References:
 Sakshi Goyal (2020). Kaggle: Credit Card Customers. Retrieved from: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/data
+OpenAI. (2021). GPT-3.5, Version 3.5. https://chatgpt.openai.com
